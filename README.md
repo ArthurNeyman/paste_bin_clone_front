@@ -1,0 +1,1 @@
+# paste_bin_clone_front
